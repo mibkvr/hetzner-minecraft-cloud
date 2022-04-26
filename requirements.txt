@@ -1,0 +1,5 @@
+uvicorn~=0.17.6
+fastapi~=0.75.0
+hcloud~=1.16.0
+starlette~=0.17.1
+paramiko
